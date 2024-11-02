@@ -1,0 +1,237 @@
+{
+  "fileFormatVersion": 18,
+  "versionFromFilename": "v004",
+  "gameType": 0,
+  "gridSize": 24,
+  "revealFileSignature": [
+    28,
+    -19,
+    107,
+    54,
+    -29,
+    9,
+    -65,
+    90,
+    -14,
+    24,
+    -123,
+    102,
+    -59,
+    -37,
+    72,
+    25,
+    72,
+    -26,
+    79,
+    -107,
+    82,
+    -10,
+    -71,
+    125,
+    -95,
+    -84,
+    116,
+    39,
+    26,
+    -61,
+    -36,
+    -15,
+    28,
+    6,
+    55,
+    40,
+    6,
+    17,
+    74,
+    8,
+    82,
+    -99,
+    -5,
+    86,
+    -86,
+    99,
+    -82,
+    -27,
+    -16,
+    -4,
+    -125,
+    -22,
+    -116,
+    40,
+    -105,
+    -84,
+    14,
+    -119,
+    -60,
+    70,
+    75,
+    -50,
+    118,
+    -53
+  ],
+  "bigEndian": false,
+  "playcardScanFlag": false,
+  "pricePoint": 50,
+  "betUnits": 1,
+  "validationUnits": 1,
+  "numberOfDivisions": 24,
+  "longGameName": "Double Xword + Hot",
+  "shortGameName": "CW010",
+  "vendorId": 1,
+  "internalAuditVendorId": 2,
+  "externalAuditVendorId": 0,
+  "gridMethod": 0,
+  "gridTrigger": 0,
+  "gridTriggerUnit": 0,
+  "prizes": [
+    {
+      "divisionValue": 200000,
+      "tableValue": 200000,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 10 (a10)"
+    },
+    {
+      "divisionValue": 50000,
+      "tableValue": 10000,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 9 (a9)  "
+    },
+    {
+      "divisionValue": 10000,
+      "tableValue": 1000,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 8 (a8)  "
+    },
+    {
+      "divisionValue": 6000,
+      "tableValue": 500,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 7 (a7)  "
+    },
+    {
+      "divisionValue": 5000,
+      "tableValue": 400,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 6 (a6)  "
+    },
+    {
+      "divisionValue": 2000,
+      "tableValue": 250,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 5 (a5)  "
+    },
+    {
+      "divisionValue": 1500,
+      "tableValue": 150,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 4 (a4)  "
+    },
+    {
+      "divisionValue": 1400,
+      "tableValue": 100,
+      "winnerCount": 1,
+      "description": "Grid 1 Match 3 (a3)  "
+    },
+    {
+      "divisionValue": 1250,
+      "tableValue": 1000,
+      "winnerCount": 1,
+      "description": "Grid 1 Hot Word (hwa)"
+    },
+    {
+      "divisionValue": 1200,
+      "tableValue": 200000,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 10 (b10)"
+    },
+    {
+      "divisionValue": 1150,
+      "tableValue": 50000,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 9 (b9)  "
+    },
+    {
+      "divisionValue": 1100,
+      "tableValue": 5000,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 8 (b8)  "
+    },
+    {
+      "divisionValue": 1100,
+      "tableValue": 500,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 7 (b7)  "
+    },
+    {
+      "divisionValue": 1050,
+      "tableValue": 400,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 6 (b6)  "
+    },
+    {
+      "divisionValue": 1000,
+      "tableValue": 200,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 5 (b5)  "
+    },
+    {
+      "divisionValue": 500,
+      "tableValue": 100,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 4 (b4)  "
+    },
+    {
+      "divisionValue": 400,
+      "tableValue": 50,
+      "winnerCount": 1,
+      "description": "Grid 2 Match 3 (b3)  "
+    },
+    {
+      "divisionValue": 250,
+      "tableValue": 1000,
+      "winnerCount": 1,
+      "description": "Grid 2 Hot Word (hwb)"
+    },
+    {
+      "divisionValue": 200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "                     "
+    },
+    {
+      "divisionValue": 150,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "                     "
+    },
+    {
+      "divisionValue": 100,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "                     "
+    },
+    {
+      "divisionValue": 100,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "                     "
+    },
+    {
+      "divisionValue": 50,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "                     "
+    },
+    {
+      "divisionValue": 0,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "                     "
+    }
+  ],
+  "siteId": 254,
+  "prizeDescriptionLength": 21,
+  "gameGroupNumber": 0,
+  "kenoSpotCount": 0,
+  "kenoMultiplier": false
+}
